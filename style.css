@@ -1,0 +1,27 @@
+.ContactMe {
+    border: 1px solid black;
+    border-radius: 1%;
+    background-position: center center;
+    text-align: center;
+    font-family: "Indie Flower", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    Margin: 300px 600px;
+    width: 450px;
+    padding: 0 0 40px 0;
+
+}
+.UserInput {
+    padding: 10px 20px;
+    font-Family: Arial, Helvetica, sans-serif;
+    font-size: 0 0 30px 0;
+}
+.InputUser {
+    border: 1px solid grey;
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+}
+.ButtonLooks {
+    width: 400px;
+
+}
